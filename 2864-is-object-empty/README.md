@@ -1,4 +1,4 @@
-<h2><a href="">2864. Is Object Empty</a></h2><p>Given an object or an array, return if it is empty.</p>
+<h2><a href="https://leetcode.com/problems/is-object-empty">2864. Is Object Empty</a></h2><p>Given an object or an array, return if it is empty.</p>
 
 <ul>
 	<li>An empty object contains no key-value pairs.</li>
